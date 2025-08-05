@@ -169,3 +169,6 @@ Open a Pull Request
 bash
 pip install -r requirements-dev.txt
 pre-commit install
+
+secrenshoot of the app 
+<img width="2158" height="1183" alt="image" src="https://github.com/user-attachments/assets/3b03b60c-0899-47da-b4d3-99f697b034db" />
